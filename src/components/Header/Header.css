@@ -1,0 +1,34 @@
+.header-container {
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+input {
+  width: 12rem;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 0.1rem;
+}
+
+button {
+  border-radius: 0.111rem;
+  border: none;
+  padding: 0.2rem 0.4rem;
+  cursor: pointer;
+}
+
+#file-upload-button {
+  border-radius: 0.111rem;
+  border: none;
+  padding: 0.2rem 4rem   ;
+  cursor: pointer;
+}
+
+.selecetdType {
+  background-color: blueviolet;
+}
